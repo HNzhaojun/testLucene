@@ -1,0 +1,13 @@
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\testLucene.exe.config
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\testLucene.exe
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\testLucene.pdb
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\Lucene.Net.dll
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.Form1.resources
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.Properties.Resources.resources
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.csproj.GenerateResource.Cache
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.csproj.CoreCompileInputs.cache
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.exe
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.pdb
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\obj\Debug\testLucene.csprojResolveAssemblyReference.cache
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\PanGu.Lucene.Analyzer.dll
+d:\我的文档\Documents\Visual Studio 2017\Projects\testLucene\testLucene\bin\Debug\PanGu.dll
